@@ -1,0 +1,1 @@
+# hass-dynalite-component-support
