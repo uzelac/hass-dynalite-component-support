@@ -1,6 +1,6 @@
 <LogicalExport time="23:20:24" date="2020-01-09" job="Uzelac - Blok 30" category="Group" id="Root">
 <Folder category="Group" id="Stan">
-<Area set_point_lux="0" preset_count="17" channel_count="2" category="Lighting" description="" template="" location="" name="Hallway" id="2">
+<Area set_point_lux="0" preset_count="10" channel_count="2" category="Lighting" description="" template="" location="" name="Hallway" id="2">
 <Channel type="1" description="" location="" name="Main hallway light" id="1"/>
 <Channel type="1" description="" location="" name="Small Hallway light" id="2"/>
 <Preset type="0" name="High" id="1">
@@ -43,36 +43,8 @@
 <ChannelLevel type="15" exclude="0" level="0" id="1"/>
 <ChannelLevel type="15" exclude="0" level="0" id="2"/>
 </Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="17" channel_count="4" category="Lighting" description="" template="" location="" name="Living room" id="3">
+<Area set_point_lux="0" preset_count="10" channel_count="4" category="Lighting" description="" template="" location="" name="Living room" id="3">
 <Channel type="1" description="" location="" name="Lamp" id="5"/>
 <Channel type="6" description="" location="" name="Upper Strip" id="8"/>
 <Channel type="6" description="" location="" name="Lower strip" id="9"/>
@@ -137,50 +109,8 @@
 <ChannelLevel type="15" exclude="0" level="0" id="9"/>
 <ChannelLevel type="15" exclude="0" level="0" id="10"/>
 </Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="5"/>
-<ChannelLevel type="15" exclude="0" level="100" id="8"/>
-<ChannelLevel type="15" exclude="0" level="100" id="9"/>
-<ChannelLevel type="15" exclude="0" level="100" id="10"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="5"/>
-<ChannelLevel type="15" exclude="0" level="0" id="8"/>
-<ChannelLevel type="15" exclude="0" level="0" id="9"/>
-<ChannelLevel type="15" exclude="0" level="0" id="10"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="5"/>
-<ChannelLevel type="15" exclude="0" level="200" id="8"/>
-<ChannelLevel type="15" exclude="0" level="200" id="9"/>
-<ChannelLevel type="15" exclude="0" level="200" id="10"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="5"/>
-<ChannelLevel type="15" exclude="0" level="150" id="8"/>
-<ChannelLevel type="15" exclude="0" level="150" id="9"/>
-<ChannelLevel type="15" exclude="0" level="150" id="10"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="5"/>
-<ChannelLevel type="15" exclude="0" level="125" id="8"/>
-<ChannelLevel type="15" exclude="0" level="125" id="9"/>
-<ChannelLevel type="15" exclude="0" level="125" id="10"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="5"/>
-<ChannelLevel type="15" exclude="0" level="50" id="8"/>
-<ChannelLevel type="15" exclude="0" level="50" id="9"/>
-<ChannelLevel type="15" exclude="0" level="50" id="10"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="5"/>
-<ChannelLevel type="15" exclude="0" level="254" id="8"/>
-<ChannelLevel type="15" exclude="0" level="254" id="9"/>
-<ChannelLevel type="15" exclude="0" level="254" id="10"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="42" channel_count="3" category="Lighting" description="" template="" location="" name="Kitchen" id="5">
+<Area set_point_lux="0" preset_count="10" channel_count="3" category="Lighting" description="" template="" location="" name="Kitchen" id="5">
 <Channel type="6" description="" location="" name="Kitchen Main strip" id="1"/>
 <Channel type="2" description="" location="" name="Kitchen Main Light" id="2"/>
 <Channel type="1" description="" location="" name="Kitchen Dining Table light" id="3"/>
@@ -234,168 +164,8 @@
 <ChannelLevel type="15" exclude="0" level="0" id="2"/>
 <ChannelLevel type="15" exclude="0" level="0" id="3"/>
 </Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 18" id="18">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 19" id="19">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 20" id="20">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 21" id="21">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 22" id="22">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 23" id="23">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 24" id="24">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 25" id="25">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 26" id="26">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 27" id="27">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 28" id="28">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 29" id="29">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 30" id="30">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 31" id="31">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 32" id="32">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 33" id="33">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 34" id="34">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 35" id="35">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 36" id="36">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 37" id="37">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 38" id="38">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 39" id="39">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 40" id="40">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 41" id="41">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 42" id="42">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="25" channel_count="3" category="Lighting" description="" template="" location="" name="Bedroom" id="6">
+<Area set_point_lux="0" preset_count="10" channel_count="3" category="Lighting" description="" template="" location="" name="Bedroom" id="6">
 <Channel type="1" description="" location="" name="Bedroom Main light" id="1"/>
 <Channel type="6" description="" location="" name="Bedroom - Bedlight HER" id="2"/>
 <Channel type="6" description="" location="" name="Bedroom - Bedlight HIM" id="3"/>
@@ -449,83 +219,8 @@
 <ChannelLevel type="15" exclude="1" level="0" id="2"/>
 <ChannelLevel type="15" exclude="1" level="0" id="3"/>
 </Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 18" id="18">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 19" id="19">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 20" id="20">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 21" id="21">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 22" id="22">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 23" id="23">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 24" id="24">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 25" id="25">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="28" channel_count="1" category="Lighting" description="" template="" location="" name="Kids" id="7">
+<Area set_point_lux="0" preset_count="10" channel_count="1" category="Lighting" description="" template="" location="" name="Kids" id="7">
 <Channel type="1" description="" location="" name="Kids lights Main" id="1"/>
 <Preset type="0" name="High" id="1">
 <ChannelLevel type="15" exclude="0" level="254" id="1"/>
@@ -554,65 +249,8 @@
 <Preset type="0" name="N-Off" id="9">
 <ChannelLevel type="15" exclude="0" level="0" id="1"/>
 </Preset>
-<Preset type="0" name="0" id="10">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 18" id="18">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 19" id="19">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 20" id="20">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 21" id="21">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 22" id="22">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 23" id="23">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 24" id="24">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 25" id="25">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 26" id="26">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 27" id="27">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 28" id="28">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="26" channel_count="3" category="Lighting" description="" template="" location="" name="WC" id="8">
+<Area set_point_lux="0" preset_count="10" channel_count="3" category="Lighting" description="" template="" location="" name="WC" id="8">
 <Channel type="3" description="" location="" name="Water Heater" id="1"/>
 <Channel type="0" description="" location="" name="WC lights main" id="2"/>
 <Channel type="3" description="" location="" name="WC Fan" id="3"/>
@@ -666,88 +304,8 @@
 <ChannelLevel type="15" exclude="0" level="0" id="2"/>
 <ChannelLevel type="15" exclude="1" level="0" id="3"/>
 </Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 18" id="18">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 19" id="19">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-<ChannelLevel type="15" exclude="0" level="100" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 20" id="20">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-<ChannelLevel type="15" exclude="0" level="0" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 21" id="21">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-<ChannelLevel type="15" exclude="0" level="200" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 22" id="22">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-<ChannelLevel type="15" exclude="0" level="150" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 23" id="23">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-<ChannelLevel type="15" exclude="0" level="125" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 24" id="24">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-<ChannelLevel type="15" exclude="0" level="50" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 25" id="25">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-<ChannelLevel type="15" exclude="0" level="254" id="3"/>
-</Preset>
-<Preset type="0" name="Preset 26" id="26">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-<ChannelLevel type="15" exclude="0" level="175" id="3"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="24" channel_count="2" category="Lighting" description="" template="" location="" name="Bathroom" id="9">
+<Area set_point_lux="0" preset_count="10" channel_count="2" category="Lighting" description="" template="" location="" name="Bathroom" id="9">
 <Channel type="1" description="" location="" name="Bathroom Lights Main" id="1"/>
 <Channel type="3" description="" location="" name="Ground Heating" id="2"/>
 <Preset type="0" name="On" id="1">
@@ -786,68 +344,8 @@
 <ChannelLevel type="15" exclude="0" level="0" id="1"/>
 <ChannelLevel type="15" exclude="1" level="0" id="2"/>
 </Preset>
-<Preset type="0" name="0" id="10">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="1" level="0" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-<ChannelLevel type="15" exclude="0" level="254" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 18" id="18">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-<ChannelLevel type="15" exclude="0" level="175" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 19" id="19">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-<ChannelLevel type="15" exclude="0" level="100" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 20" id="20">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-<ChannelLevel type="15" exclude="0" level="0" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 21" id="21">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-<ChannelLevel type="15" exclude="0" level="200" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 22" id="22">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-<ChannelLevel type="15" exclude="0" level="150" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 23" id="23">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-<ChannelLevel type="15" exclude="0" level="125" id="2"/>
-</Preset>
-<Preset type="0" name="Preset 24" id="24">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-<ChannelLevel type="15" exclude="0" level="50" id="2"/>
-</Preset>
 </Area>
-<Area set_point_lux="0" preset_count="18" channel_count="1" category="Lighting" description="" template="" location="" name="Terasa" id="21">
+<Area set_point_lux="0" preset_count="10" channel_count="1" category="Lighting" description="" template="" location="" name="Terasa" id="21">
 <Channel type="3" description="" location="" name="Main" id="1"/>
 <Preset type="0" name="ON" id="1">
 <ChannelLevel type="15" exclude="0" level="254" id="1"/>
@@ -879,48 +377,6 @@
 <Preset type="0" name="0" id="10">
 <ChannelLevel type="15" exclude="1" level="0" id="1"/>
 </Preset>
-<Preset type="0" name="Preset 11" id="11">
-<ChannelLevel type="15" exclude="0" level="100" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 12" id="12">
-<ChannelLevel type="15" exclude="0" level="0" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 13" id="13">
-<ChannelLevel type="15" exclude="0" level="200" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 14" id="14">
-<ChannelLevel type="15" exclude="0" level="150" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 15" id="15">
-<ChannelLevel type="15" exclude="0" level="125" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 16" id="16">
-<ChannelLevel type="15" exclude="0" level="50" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 17" id="17">
-<ChannelLevel type="15" exclude="0" level="254" id="1"/>
-</Preset>
-<Preset type="0" name="Preset 18" id="18">
-<ChannelLevel type="15" exclude="0" level="175" id="1"/>
-</Preset>
-</Area>
-<Area set_point_lux="0" preset_count="6" channel_count="0" category="Lighting" description="" template="" location="" name="WC" id="82">
-<Preset type="0" name="On" id="1"/>
-<Preset type="0" name="Off" id="2"/>
-<Preset type="0" name="OFF" id="3"/>
-<Preset type="0" name="Off" id="4"/>
-<Preset type="0" name="Preset 5" id="5"/>
-<Preset type="0" name="Preset 6" id="6"/>
-</Area>
-<Area set_point_lux="0" preset_count="8" channel_count="0" category="Lighting" description="" template="" location="" name="DUMMY - Timeclock Tasks" id="99">
-<Preset type="0" name="Night Mode ON" id="1"/>
-<Preset type="0" name="Night Mode OFF" id="2"/>
-<Preset type="0" name="0" id="3"/>
-<Preset type="0" name="0" id="4"/>
-<Preset type="0" name="0" id="5"/>
-<Preset type="0" name="0" id="6"/>
-<Preset type="0" name="0" id="7"/>
-<Preset type="0" name="0" id="8"/>
 </Area>
 </Folder>
 </LogicalExport>
