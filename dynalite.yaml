@@ -1,0 +1,191 @@
+bridges:
+  - host: 192.168.1.25
+    port: 50000
+    autodiscover: false
+    polltimer: 2
+    areacreate: assign
+    active: true
+    log_level: debug
+    area:
+      '1':
+        name: Unused
+        nodefault: true
+      '2':
+        name: Hodnik
+        channel:
+          '1':
+            name: Hodnik Osnovno
+          '2':
+            name: Hodnik Pomocno
+      '3':
+        name: Dnevna
+        channel:
+          '5':
+            name: Dnevna lampa
+          '10':
+            name: Dnevna spotovi
+      '4':
+        name: Terasa
+        channel:
+          '1':
+            name: Terasa osnovno
+      '5':
+        name: Kuhinja
+        channel:
+          '2':
+            name: Kuhinja osnovno
+          '3':
+            name: Kuhinja luster
+      '6':
+        name: Spavaca
+        channel:
+          '1':
+            name: Spavaca osnovno
+          '2':
+            name: Spavaca N_Milica
+          '3':
+            name: Spavaca N_Sasa
+      '7':
+        name: Decija
+        channel:
+          '1':
+            name: Decija osnovno
+      '8':
+        name: Wc
+        channel:
+          '1':
+            name: WC Bojler
+            type: switch
+          '2':
+            name: WC Osnovno
+          '3':
+            name: WC Ventilator
+            type: switch
+      '9':
+        name: Kupatilo
+        channel:
+          '1':
+            name: Kupatilo Osnovno
+          '2':
+            name: Podno grejanje
+            type: switch
+      '102':
+        name: dnevna_fix
+        areaoverride: Dnevna
+        template: timecover
+        templateoverride: 
+          duration: 16
+      '103':
+        name: dnevna_slide
+        areaoverride: Dnevna
+        template: timecover
+        templateoverride: 
+          duration: 16
+      '104':
+        name: trpezarija
+        areaoverride: Kuhinja
+        template: timecover
+        templateoverride: 
+          duration: 12
+      '105':
+        name: balkon
+        areaoverride: Kuhinja
+        template: timecover
+        templateoverride: 
+          duration: 17
+      '106':
+        name: spavaca
+        areaoverride: Spavaca
+        template: timecover
+        templateoverride: 
+          duration: 22
+      '107':
+        name: decija
+        areaoverride: Decija
+        template: timecover
+        templateoverride: 
+          duration: 22
+      '191':
+        name: klima_dnevna
+        nodefault: true
+        areaoverride: Dnevna
+        channel:
+          '1':
+            name: Klima dnevna
+        preset:
+          '1':
+            name: AC dnevna Auto 
+            fade: 0
+          '2':
+            name: AC dnevna Cool
+            fade: 0
+          '3':
+            name: AC dnevna Heat
+            fade: 0
+          '4':
+            name: AC dnevna Off
+            fade: 0
+      '192':
+        name: klima_hodnik
+        areaoverride: Hodnik
+        channel:
+          '1':
+            name: Klima hodnik
+        nodefault: true
+        preset:
+          '1':
+            name: AC hodnik Auto
+            fade: 0
+          '2':
+            name: AC hodnik Cool
+            fade: 0
+          '3':
+            name: AC hodnik Heat
+            fade: 0
+          '4':
+            name: AC hodnik Off
+            fade: 0
+      '201':
+        name: klima_hodnik
+        areaoverride: Hodnik
+        channel:
+          '1':
+            name: Klima hodnik
+        nodefault: true
+        preset:
+          '1':
+            name: AC hodnik Auto
+            fade: 0
+          '2':
+            name: AC hodnik Cool
+            fade: 0
+          '3':
+            name: AC hodnik Heat
+            fade: 0
+          '4':
+            name: AC hodnik Off
+            fade: 0
+            
+    preset:
+      '1':
+        name: 'On'
+        fade: 1
+      '2':
+        name: Med
+        fade: 1
+      '3':
+        name: Dimm
+        fade: 1
+      '4':
+        name: 'Off'
+        fade: 1
+    template:
+       'timecover':
+         channel: 0
+         open: 1
+         close: 3
+         stop: 2
+         duration: 30
+         class: blind
+    default:
+      fade: 0
